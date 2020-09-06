@@ -8,7 +8,8 @@ ClinVar is a public resource containing annotations about human genetic variants
 # Content
 The objective is to predict whether a ClinVar variant will have conflicting classifications. This is presented here as a binary classification problem, where each record in the dataset is a genetic variant.
 
-
+![Screenshot](image1.png)
+![Screenshot](image2.png)
 
 Conflicting classifications are when two of any of the following three categories are present for one variant, two submissions of one category are not considered conflicting.
 
